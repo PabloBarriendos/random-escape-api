@@ -1,0 +1,6 @@
+@random_escape_api_HostAddress = http://localhost:5016
+
+GET {{random_escape_api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
